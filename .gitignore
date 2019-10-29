@@ -1,0 +1,4 @@
+.terraform/
+plan
+providers.tf
+terraform.tfstate*
